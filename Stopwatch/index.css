@@ -1,0 +1,20 @@
+body{
+	background-color: rgb(73, 240, 246);
+}
+
+.stopwatch{
+	background-color: rgb(68, 246, 121);
+	width: 50%;
+	margin: auto;
+	height: 25vh;
+	padding-top: 10px;
+	margin-top:15%;
+	padding-bottom: 20px;
+}
+
+button{
+	background-color: rgb(236, 245, 242);
+	border:1px solid  rgb(11, 11, 11);
+	width: 100px;
+	height: 30px;
+}
